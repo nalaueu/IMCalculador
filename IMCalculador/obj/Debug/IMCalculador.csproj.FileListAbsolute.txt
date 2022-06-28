@@ -1,0 +1,11 @@
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\bin\Debug\IMCalculador.exe.config
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\bin\Debug\IMCalculador.exe
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\bin\Debug\IMCalculador.pdb
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.csproj.SuggestedBindingRedirects.cache
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.Form1.resources
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.Properties.Resources.resources
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.csproj.GenerateResource.cache
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.csproj.CoreCompileInputs.cache
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.exe
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.pdb
+C:\Users\anna.laralves\Documents\UC12\IMCalculador\IMCalculador\obj\Debug\IMCalculador.csproj.AssemblyReference.cache
